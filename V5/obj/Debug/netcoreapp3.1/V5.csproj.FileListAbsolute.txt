@@ -1,0 +1,13 @@
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\bin\Debug\netcoreapp3.1\V5.exe
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\bin\Debug\netcoreapp3.1\V5.deps.json
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\bin\Debug\netcoreapp3.1\V5.runtimeconfig.json
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\bin\Debug\netcoreapp3.1\V5.runtimeconfig.dev.json
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\bin\Debug\netcoreapp3.1\V5.dll
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\bin\Debug\netcoreapp3.1\V5.pdb
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\obj\Debug\netcoreapp3.1\V5.csprojAssemblyReference.cache
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\obj\Debug\netcoreapp3.1\V5.AssemblyInfoInputs.cache
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\obj\Debug\netcoreapp3.1\V5.AssemblyInfo.cs
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\obj\Debug\netcoreapp3.1\V5.csproj.CoreCompileInputs.cache
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\obj\Debug\netcoreapp3.1\V5.dll
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\obj\Debug\netcoreapp3.1\V5.pdb
+C:\Users\otgax\OneDrive - INTEC\prog2\Registro de Datos\V5\obj\Debug\netcoreapp3.1\V5.genruntimeconfig.cache
